@@ -1,5 +1,6 @@
 # pyTools
-tools for DS and data processing
+
+python and bash tools for DS and data processing
 
 --
 jrm
